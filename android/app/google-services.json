@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144179096813",
+    "project_id": "flutter-doubleauth",
+    "storage_bucket": "flutter-doubleauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144179096813:android:b7e7d577230bdf557370e4",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFjWfGBR1HFhwpUsim7wFyAPMh9SfIhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
